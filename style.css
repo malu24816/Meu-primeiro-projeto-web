@@ -1,16 +1,16 @@
 body {
-    background-color: #87CEEB; /* Fundo azul */
+    background-color: #b695C0; /* Fundo roxo */
     font-family: Arial, sans-serif; /* Fonte padrão */
     margin: 0;
     padding: 20px;
     text-align: justify; /* Texto justificado */
 }
 h1 {
-    color: darkblue;
+    color: red;
     text-align: center; /* Centralizar o título principal */
 }
 h2 {
-    color: darkgreen;
+    color: red;
 }
 p {
     color: #333; /* Cor do texto */
